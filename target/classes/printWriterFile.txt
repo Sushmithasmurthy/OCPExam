@@ -1,0 +1,3 @@
+hello - I am print writer and i can write characters
+i can also formatdata and print
+Although i dont add new line if use onl print or format so i use println
